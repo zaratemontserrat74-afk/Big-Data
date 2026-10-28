@@ -1,3 +1,4 @@
 **/.venv/
 **/pycache_/
 .vscode
+data/raw/nyc_taxi_examen.csv
