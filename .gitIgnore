@@ -1,4 +1,6 @@
 **/.venv/
 **/pycache_/
-.vscode
+.vscode/
 **/Examen_P2/data/raw/nyc_taxi_examen.csv
+**/data/
+**/.ipynb_checkpoints/
